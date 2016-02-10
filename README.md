@@ -38,5 +38,5 @@ Custom Color Schemes for Xcode are stored in the `~/Library/Developer/Xcode/User
   
   $ open .
   ```
-2. Then put the `.dvtcolortheme files` to this folder
+2. Then put the `.dvtcolortheme` files to this folder
 
