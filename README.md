@@ -4,5 +4,5 @@ Hi, this is list of Xcode Themes made by me. Hope you enjoy! :)
 
 ###### Current List:
 
-* One Dusk ( One Dark vs. Dusk)
+* One Dusk (One Dark vs. Dusk)
 
