@@ -26,11 +26,12 @@ Once you have Alcatraz installed, installing the theme is done in Xcode's menu `
 
 ### Manual Installation
 
-- Custom Color Schemes for Xcode are stored in the `~/Library/Developer/Xcode/UserData/FontAndColorThemes/` folder.
+Custom Color Schemes for Xcode are stored in the `~/Library/Developer/Xcode/UserData/FontAndColorThemes/` folder.
 
 1. To open it, insert this lines into the terminal:
   ```
   $ cd ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
+  
   $ open .
   ```
 2. Then put the .dvtcolortheme files to this folder
