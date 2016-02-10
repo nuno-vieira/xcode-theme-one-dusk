@@ -7,7 +7,7 @@ Hope you enjoy!
 Current Versions:
 ------------
 
-* **One Dusk** - Original
+* **One Dusk** - Original (Recommended)
 
   <img src="https://raw.githubusercontent.com/nunovieira93/xcode-themes-by-me/master/Screenshots/OneDusk.png" width="400" alt="One Dusk">
   
