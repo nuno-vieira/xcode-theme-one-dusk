@@ -6,7 +6,7 @@ Hi, this is list of Xcode Themes made by me. Hope you enjoy! :)
 
 * **One Dusk** - One Dark Colors with Dusk Structure, where custom classes, methods, variables and constants have a distinguished color
 
-<img src="https://raw.githubusercontent.com/nunovieira93/xcode-themes-by-me/master/Screenshots/OneDusk.png" width="48">
+* <img src="https://raw.githubusercontent.com/nunovieira93/xcode-themes-by-me/master/Screenshots/OneDusk.png" width="48">
 
 * **One Dusk v2** - One Dusk with the difference of only Custom classes and methods have a distinguished color
 
