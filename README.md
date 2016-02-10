@@ -17,6 +17,8 @@ Current Versions:
 
   <img src="https://raw.githubusercontent.com/nunovieira93/xcode-themes-by-me/master/Screenshots/OneDuskV2.png" width="400" alt="One Dusk v2">
   
+  <img src="https://raw.githubusercontent.com/nunovieira93/xcode-theme-one-dusk/master/Screenshots/OneDuskCodeV2.png" width="400" alt="One Dusk">
+  
   
 Installation
 ------------
