@@ -23,7 +23,7 @@ Current Versions:
 Installation
 ------------
 
-### Installation using Alcatraz
+### Alcatraz - Xcode Package Manager
 
 The themes in this repository is or will soon be available on [Alcatraz](https://github.com/supermarin/Alcatraz).
 Once you have Alcatraz installed, installing the theme is done in Xcode's menu `Window -> Package Manager`. Click on **Color Schemes** button, and search for "One Dusk" and click install.
