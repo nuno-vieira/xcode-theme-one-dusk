@@ -4,10 +4,8 @@ Hi, decided to make a fusion of two themes, One Dark and Dusk. Basically it is a
 
 Hope you enjoy!
 
-Screenshots:
+Screenshots
 ------------
-
-* **One Dusk**
 
   <img src="https://raw.githubusercontent.com/nunovieira93/xcode-themes-by-me/master/Screenshots/OneDusk.png" width="400" alt="One Dusk">
   
