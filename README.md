@@ -36,6 +36,7 @@ Custom Color Schemes for Xcode are stored in the `~/Library/Developer/Xcode/User
 
 
 
-###### Special Thanks
+Special Thanks
+------------
 
-**Author of One Dark Theme for Xcode:** https://github.com/bojan/xcode-one-dark by Bojan Dimovski
+Author of One Dark Theme for Xcode: (https://github.com/bojan/xcode-one-dark) by **Bojan Dimovski**
