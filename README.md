@@ -1,6 +1,6 @@
 # Xcode Theme - **One Dusk** by Nuno Vieira
 
-Hi, decided to make a fusion of two themes, One Dark and Dusk. Basically it is a theme with One Dark Colors but with the Dusk Structure, wish means that **custom** classes, methods, variables and constants have a **distinguished color**.
+Hi, decided to make a fusion of two themes, One Dark and Dusk. Basically it is a theme with One Dark Colors but with the Dusk Structure, wish means that **ios** classes, methods, variables and constants have a **distinguished color**.
 
 Hope you enjoy!
 
