@@ -4,20 +4,14 @@ Hi, decided to make a fusion of two themes, One Dark and Dusk. Basically it is a
 
 Hope you enjoy!
 
-Current Versions:
+Screenshots:
 ------------
 
-* **One Dusk** - Original (Recommended)
+* **One Dusk**
 
   <img src="https://raw.githubusercontent.com/nunovieira93/xcode-themes-by-me/master/Screenshots/OneDusk.png" width="400" alt="One Dusk">
   
   <img src="https://raw.githubusercontent.com/nunovieira93/xcode-theme-one-dusk/master/Screenshots/OneDuskCode.png" width="400" alt="One Dusk">
-
-* **One Dusk v2** - Only Custom classes and methods have a distinguished color
-
-  <img src="https://raw.githubusercontent.com/nunovieira93/xcode-themes-by-me/master/Screenshots/OneDuskV2.png" width="400" alt="One Dusk v2">
-  
-  <img src="https://raw.githubusercontent.com/nunovieira93/xcode-theme-one-dusk/master/Screenshots/OneDuskCodeV2.png" width="400" alt="One Dusk">
   
   
 Installation
